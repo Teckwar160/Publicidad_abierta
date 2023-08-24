@@ -13,8 +13,8 @@
 ```
 ### Software
 ```
-• Sistema operativo: Linux Mint
-• Base de datos: MySQL
+• Sistema operativo: Linux Mint 21.2
+• Base de datos: MySQL 8.0
 • Servidor de aplicaciones: Apache 2.0
 • PHP: 5.6
 ```
