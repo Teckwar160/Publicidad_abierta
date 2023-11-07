@@ -12,7 +12,7 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `bd_publicidad`
 --
-use bd_publicidad
+use `bd_publicidad`
 -- --------------------------------------------------------
 
 --
